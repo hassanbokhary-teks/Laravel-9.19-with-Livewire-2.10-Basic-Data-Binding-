@@ -1,0 +1,1 @@
+# Laravel-9.19-with-Livewire-2.10-Basic-Data-Binding-
